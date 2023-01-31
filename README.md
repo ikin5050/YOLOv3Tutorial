@@ -1,2 +1,2 @@
 # YOLOv3Tutorial
-Tutorial on how to use YOLOv3 model for object detection
+YOLOv3 is an object detection algorithm designed to operate in real time. The current version of YOLOv3 uses PyTorch as a backend so you will need to have *torch* and *torchvision* installed, as well as *imageAI*. There is a little bit of information as to how YOLO works but this tutorial is designed to show you how simple it is to get a simple object detection algorithm working. 
